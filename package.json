@@ -2,7 +2,7 @@
   "name": "fs-cmp",
   "author": "Charles Kenney <me@ch4z.io>",
   "description": "Easily determine if a given set of paths point to the same file.",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/charliekenney23/fs-cmp.git",
