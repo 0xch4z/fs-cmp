@@ -1,4 +1,4 @@
-# fs-cmp
+# fs-cmp [![Build Status](https://travis-ci.org/charliekenney23/fs-cmp.svg?branch=master)](https://travis-ci.org/charliekenney23/fs-cmp.js)
 
 ### Easily determine if a given set of paths point to the same file.
 
