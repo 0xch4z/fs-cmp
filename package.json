@@ -3,9 +3,20 @@
   "author": "Charles Kenney <me@ch4z.io>",
   "description": "Easily determine if a given set of paths point to the same file.",
   "version": "0.2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/charliekenney23/fs-cmp.git",
+    "directory": "packages/react"
+  },
   "types": "dist/index.d.ts",
   "main": "dist/index.js",
   "license": "MIT",
+  "keywords": [
+    "files",
+    "fs",
+    "directories",
+    "symlinks"
+  ],
   "scripts": {
     "prebuild": "yarn test",
     "build": "tsc",
