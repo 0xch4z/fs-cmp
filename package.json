@@ -1,6 +1,7 @@
 {
   "name": "fs-cmp",
   "author": "Charles Kenney <me@ch4z.io>",
+  "description": "Easily determine if a given set of paths point to the same file.",
   "version": "0.1.0",
   "main": "index.js",
   "license": "MIT",
