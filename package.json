@@ -3,11 +3,12 @@
   "author": "Charles Kenney <me@ch4z.io>",
   "description": "Easily determine if a given set of paths point to the same file.",
   "version": "0.1.0",
-  "main": "index.js",
+  "types": "dist/index.d.ts",
+  "main": "dist/index.js",
   "license": "MIT",
   "scripts": {
     "prebuild": "yarn test",
-    "build": "tsc -p ./",
+    "build": "tsc",
     "test": "jest"
   },
   "dependencies": {},
